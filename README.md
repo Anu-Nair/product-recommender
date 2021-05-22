@@ -16,6 +16,6 @@ But, be sure to register yourself and login, before we can recommend products fo
 
 You will have to open the anaconda prompt or any command line interface (CLI) and run the following commands after navigating to the project folder :
 
-```python manage.py makemigrations<br>
-python manage.py migrate<br>
-python manage.py runserver```
+```python manage.py makemigrations```<br>
+```python manage.py migrate```<br>
+```python manage.py runserver```
